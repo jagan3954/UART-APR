@@ -284,6 +284,7 @@ v, vi → Sets the maximum limit for I/O port delay to 1ps.
 
 ### Fig 5: Timing Report:
 <img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/400bd314-d98a-402e-8ae3-7cea94385629" />
+
 ### Fig 6: UART APR
 <img width="1919" height="1002" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/66bc5f68-4b82-4ab0-b305-dcbbab71f2b8" />
 
